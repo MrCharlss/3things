@@ -14,6 +14,7 @@ func ParseBodyAndValidate(ctx *fiber.Ctx, body interface{}) *fiber.Error {
 }
 
 func GetUser(c *fiber.Ctx) *uint {
-	id, _ := c.Locals("USER").(uint)
+    id := uint(1)
+	// id, _ := c.Locals("USER").(uint)
 	return &id
 }

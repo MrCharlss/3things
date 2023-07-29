@@ -13,6 +13,16 @@ probablemente algo relacionado con AI para clasificar cada una de las respuestas
 backend en go, frontend react native.
 
 
+wins
+not happy about
+learnt never seen
+day score
+other score
+
+puedo una vez a la semana o el tiempo que sea utilizar cada cosa que se anotó para mandarla a AI y que con cada cosa me de comentarios tipo psicologo, terapia... los wins son continua haciendo esto... los días que hiciste ciertas cosas tuviste una mejor calificación de días. los not happy about pueden convertirse en recomendaciones de como mejorar o que aspectos evitar en general, se pueden ligar los dias mas bajos con este campo para dar un comentario al respecto.
+
+
+
 
 I want you to help me create all back end code needed for the following:
 a server that 
